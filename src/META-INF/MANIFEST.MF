@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Main-Class: com.example.springbootproject.SpringBootProjectApplication
+Class-Path: jackson-datatype-jsr310-2.12.5.jar spring-jcl-5.3.12.jar spr
+ ing-jdbc-5.3.12.jar jul-to-slf4j-1.7.32.jar classmate-1.5.1.jar HikariC
+ P-4.0.3.jar spring-boot-starter-2.5.6.jar jackson-core-2.12.5.jar sprin
+ g-boot-starter-data-jdbc-2.5.6.jar jackson-databind-2.12.5.jar jboss-lo
+ gging-3.4.2.Final.jar spring-context-5.3.12.jar jakarta.persistence-api
+ -2.2.3.jar log4j-to-slf4j-2.14.1.jar spring-data-commons-2.5.6.jar log4
+ j-api-2.14.1.jar antlr-2.7.7.jar spring-core-5.3.12.jar logback-classic
+ -1.2.6.jar spring-aop-5.3.12.jar spring-boot-starter-web-2.5.6.jar spri
+ ng-boot-starter-json-2.5.6.jar spring-data-relational-2.2.6.jar dom4j-2
+ .1.3.jar tomcat-embed-core-9.0.54.jar jakarta.activation-1.2.2.jar spri
+ ng-boot-starter-logging-2.5.6.jar jakarta.annotation-api-1.3.5.jar spri
+ ng-boot-autoconfigure-2.5.6.jar spring-web-5.3.12.jar snakeyaml-1.28.ja
+ r slf4j-api-1.7.32.jar jackson-annotations-2.12.5.jar jackson-datatype-
+ jdk8-2.12.5.jar jakarta.activation-api-1.2.2.jar tomcat-embed-websocket
+ -9.0.54.jar tomcat-embed-el-9.0.54.jar spring-data-jdbc-2.2.6.jar jakar
+ ta.transaction-api-1.3.3.jar jaxb-runtime-2.3.5.jar byte-buddy-1.10.22.
+ jar spring-data-jpa-2.5.6.jar jandex-2.2.3.Final.jar istack-commons-run
+ time-3.0.12.jar spring-boot-2.5.6.jar mysql-connector-java-8.0.27.jar j
+ ackson-module-parameter-names-2.12.5.jar spring-orm-5.3.12.jar aspectjw
+ eaver-1.9.7.jar jakarta.xml.bind-api-2.3.3.jar javassist-3.27.0-GA.jar 
+ spring-boot-starter-aop-2.5.6.jar spring-boot-starter-tomcat-2.5.6.jar 
+ spring-expression-5.3.12.jar logback-core-1.2.6.jar spring-boot-starter
+ -jdbc-2.5.6.jar spring-boot-starter-data-jpa-2.5.6.jar spring-aspects-5
+ .3.12.jar spring-beans-5.3.12.jar hibernate-core-5.4.32.Final.jar sprin
+ g-webmvc-5.3.12.jar hibernate-commons-annotations-5.1.2.Final.jar sprin
+ g-tx-5.3.12.jar txw2-2.3.5.jar
+
